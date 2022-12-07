@@ -1,10 +1,9 @@
-# solid-barnacle
 # Effects of Cordyceps sinensis on mouse gut microbiome
 ## Community
 ### analysis procedure
-- read processing: FastQC, 
+- read processing: FastQC
 - OTU picking: DADA2
-- OTU picking DB: SILVA \
+- OTU picking DB: SILVA SSU 138.1
 
 ### Statistics
 - Samples: 88 mice
