@@ -13,8 +13,9 @@
 
 ### bar plot
 - Genus level profile was used for drawing bar plot.
-- Only 10 abundant genera (>0.5% total abundance) were noted.
-![Rplot](https://user-images.githubusercontent.com/119988478/206132172-fe349477-a305-4a81-b0f5-07cea4c1a682.png)
+- Only 10 abundant genera were noted.
+![sheet1_bar_final](https://user-images.githubusercontent.com/119988478/206201402-6f7bddaa-9540-49dd-8e0d-48f9ff16f9ac.png)
+
 
 ### nmds analysis
 - nmds analysis was performed with OTU level profile
