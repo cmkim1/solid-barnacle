@@ -19,7 +19,8 @@
 
 ### nmds analysis
 - nmds analysis was performed with OTU level profile
-![sheet2_nmds_ellipse](https://user-images.githubusercontent.com/119988478/206134161-795288fd-c59c-4df9-8b2b-7f8404e43dd1.png)
+![sheet1_nmds_final](https://user-images.githubusercontent.com/119988478/206220072-1a42d926-1c2d-4241-b829-27d7002393e7.png)
+
 
 
 ### diversity box plot
